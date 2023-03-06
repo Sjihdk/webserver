@@ -1,0 +1,6 @@
+1.#include <mysql/mysql.h>没有发现源文件
+    解决： sudo apt-get install libmysqlclient-dev
+    原因： 没有安装mysql的相关链接库
+
+
+2.
